@@ -1,0 +1,3 @@
+Flask
+Flask-PyMongo  # If you are using MongoDB with Flask
+pymongo  # MongoDB Python driver
